@@ -17,7 +17,7 @@
 - **Competencies**:
   - <kbd>variables</kbd>
   - <kbd>strings</kbd>
-  - <kbd>simple maths</kbd>
+  - <kbd>simple maths</kbd>"
   - <kbd>if, else</kbd>
 
 ## Step 1 : Variables
