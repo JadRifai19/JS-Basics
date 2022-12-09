@@ -1,6 +1,7 @@
 
 const stringSize = (text) => {
 
+return text.length ;
 }
 const replaceCharacterE = (text) => {
 
