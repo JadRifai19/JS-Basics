@@ -1,0 +1,9 @@
+document.getElementsByTagName("div")[2].addEventListener("click",function(){
+    document.getElementById("text").style.color="green"
+})
+document.getElementsByTagName("div")[3].addEventListener("click",function(){
+    document.getElementById("text").style.color="red"
+})
+document.getElementsByTagName("div")[4].addEventListener("click",function(){
+    document.getElementById("text").style.color="blue"
+})
